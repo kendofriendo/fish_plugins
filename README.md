@@ -82,7 +82,7 @@ See https://github.com/jorgebucaran/awsm.fish <br> These are just the ones I per
     <td>autopair</td>
     <td>Auto-complete matching pairs in the Fish command-line.</td>
     <td>https://github.com/jorgebucaran/autopair.fish</td>
-    <td></td>
+    <td>fisher install jorgebucaran/autopair.fish</td>
   </tr>
   
   </tr>
